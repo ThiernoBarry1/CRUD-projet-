@@ -1,0 +1,27 @@
+C:\Users\philippe\Documents\aifcc\M2I\m2 MS2I C#\projets\exempleBdD\exempleBdD\bin\Debug\exempleBdD.exe.config
+C:\Users\philippe\Documents\aifcc\M2I\m2 MS2I C#\projets\exempleBdD\exempleBdD\bin\Debug\exempleBdD.exe
+C:\Users\philippe\Documents\aifcc\M2I\m2 MS2I C#\projets\exempleBdD\exempleBdD\bin\Debug\exempleBdD.pdb
+C:\Users\philippe\Documents\aifcc\M2I\m2 MS2I C#\projets\exempleBdD\exempleBdD\obj\Debug\exempleBdD.Properties.Resources.resources
+C:\Users\philippe\Documents\aifcc\M2I\m2 MS2I C#\projets\exempleBdD\exempleBdD\obj\Debug\exempleBdD.csproj.GenerateResource.cache
+C:\Users\philippe\Documents\aifcc\M2I\m2 MS2I C#\projets\exempleBdD\exempleBdD\obj\Debug\exempleBdD.exe
+C:\Users\philippe\Documents\aifcc\M2I\m2 MS2I C#\projets\exempleBdD\exempleBdD\obj\Debug\exempleBdD.pdb
+C:\Users\philippe\Documents\aifcc\M2I\m2 MS2I C#\projets\exempleBdD\exempleBdD\obj\Debug\exempleBdD.FenetreRepertoire.resources
+C:\Users\philippe\Documents\aifcc\M2I\m2 MS2I C#\projets\exempleBdD\exempleBdD\bin\Debug\fr-FR\exempleBdD.resources.dll
+C:\Users\philippe\Documents\aifcc\M2I\m2 MS2I C#\projets\exempleBdD\exempleBdD\obj\Debug\exempleBdD.csprojAssemblyReference.cache
+C:\Users\philippe\Documents\aifcc\M2I\m2 MS2I C#\projets\exempleBdD\exempleBdD\obj\Debug\exempleBdD.FenetreRepertoire.fr-FR.resources
+C:\Users\philippe\Documents\aifcc\M2I\m2 MS2I C#\projets\exempleBdD\exempleBdD\obj\Debug\fr-FR\exempleBdD.resources.dll
+C:\Users\BARRY-05046\Documents\Cours\csharp\exempleBdD\exempleBdD\bin\Debug\exempleBdD.exe.config
+C:\Users\BARRY-05046\Documents\Cours\csharp\exempleBdD\exempleBdD\bin\Debug\exempleBdD.exe
+C:\Users\BARRY-05046\Documents\Cours\csharp\exempleBdD\exempleBdD\bin\Debug\exempleBdD.pdb
+C:\Users\BARRY-05046\Documents\Cours\csharp\exempleBdD\exempleBdD\bin\Debug\fr-FR\exempleBdD.resources.dll
+C:\Users\BARRY-05046\Documents\Cours\csharp\exempleBdD\exempleBdD\obj\Debug\exempleBdD.csprojAssemblyReference.cache
+C:\Users\BARRY-05046\Documents\Cours\csharp\exempleBdD\exempleBdD\obj\Debug\exempleBdD.FenetreRepertoire.resources
+C:\Users\BARRY-05046\Documents\Cours\csharp\exempleBdD\exempleBdD\obj\Debug\exempleBdD.Properties.Resources.resources
+C:\Users\BARRY-05046\Documents\Cours\csharp\exempleBdD\exempleBdD\obj\Debug\exempleBdD.FenetreRepertoire.fr-FR.resources
+C:\Users\BARRY-05046\Documents\Cours\csharp\exempleBdD\exempleBdD\obj\Debug\exempleBdD.csproj.GenerateResource.cache
+C:\Users\BARRY-05046\Documents\Cours\csharp\exempleBdD\exempleBdD\obj\Debug\exempleBdD.csproj.CoreCompileInputs.cache
+C:\Users\BARRY-05046\Documents\Cours\csharp\exempleBdD\exempleBdD\obj\Debug\fr-FR\exempleBdD.resources.dll
+C:\Users\BARRY-05046\Documents\Cours\csharp\exempleBdD\exempleBdD\obj\Debug\exempleBdD.exe
+C:\Users\BARRY-05046\Documents\Cours\csharp\exempleBdD\exempleBdD\obj\Debug\exempleBdD.pdb
+C:\Users\BARRY-05046\Documents\Cours\csharp\exempleBdD\exempleBdD\obj\Debug\exempleBdD.ListeContacts.resources
+C:\Users\BARRY-05046\Documents\Cours\csharp\exempleBdD\exempleBdD\obj\Debug\exempleBdD.Detail.resources
